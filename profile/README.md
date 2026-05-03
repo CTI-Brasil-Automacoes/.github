@@ -22,4 +22,4 @@ Este espaço reúne os scripts, automações e ferramentas desenvolvidas interna
 
 ## ⚠️ Aviso
 
-Todos os repositórios desta organização são de uso **interno e restrito** à equipe CTI Brasil — EY. O compartilhamento de qualquer script, chave de API ou dado sensível com pessoas externas ao projeto deve ser previamente autorizado pelo responsável da equipe.
+Todos os repositórios desta organização são de uso **interno e restrito** à equipe CTI Brasil — EY. 
