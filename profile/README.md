@@ -1,4 +1,4 @@
-# 🛡️ CTI Brasil — EY
+# 🛡️ CTI Brasil
 
 Bem-vindo ao repositório central da equipe de **Cyber Threat Intelligence (CTI)** da **EY Brasil**.
 
@@ -6,9 +6,7 @@ Este espaço reúne os scripts, automações e ferramentas desenvolvidas interna
 
 ---
 
-## 📦 Repositórios
-
-- **[Analista_CTI_BOT_Telegram](https://github.com/CTI-Brasil-Automacoes/Analista_CTI_BOT_Telegram)** — Bot de Cyber Threat Intelligence que monitora feeds de segurança, filtra por relevância e envia análises automáticas para um grupo no Telegram.
+## 📦 Principais Repositórios
 
 - **[Script_Coleta_De_Dados_API_SHODAN](https://github.com/CTI-Brasil-Automacoes/Script_Coleta_De_Dados_API_SHODAN)** — Script para consulta à API do Shodan, permitindo a coleta e exportação de dados de exposição de ativos a partir de queries personalizadas.
 
