@@ -1,7 +1,5 @@
 # 🛡️ CTI Brasil
 
-Bem-vindo ao repositório central da equipe de **Cyber Threat Intelligence (CTI)** da **EY Brasil**.
-
 Este espaço reúne os scripts, automações e ferramentas desenvolvidas internamente pelo time para apoiar as operações de CTI no dia a dia.
 
 ---
@@ -18,6 +16,3 @@ Este espaço reúne os scripts, automações e ferramentas desenvolvidas interna
 
 ---
 
-## ⚠️ Aviso
-
-Todos os repositórios desta organização são de uso **interno e restrito** à equipe CTI Brasil — EY. 
